@@ -1,0 +1,52 @@
+c:\users\guypld\documents\visual studio 11\Projects\ReverseReversi\ReverseReversi\bin\Debug\ReverseReversi.exe
+c:\users\guypld\documents\visual studio 11\Projects\ReverseReversi\ReverseReversi\bin\Debug\ReverseReversi.pdb
+c:\users\guypld\documents\visual studio 11\Projects\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.csprojResolveAssemblyReference.cache
+c:\users\guypld\documents\visual studio 11\Projects\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.Form1.resources
+c:\users\guypld\documents\visual studio 11\Projects\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.Properties.Resources.resources
+c:\users\guypld\documents\visual studio 11\Projects\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.csproj.GenerateResource.Cache
+c:\users\guypld\documents\visual studio 11\Projects\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.exe
+c:\users\guypld\documents\visual studio 11\Projects\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.pdb
+C:\Users\guypld\Dropbox\University\A.I\HW ME\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.exe
+C:\Users\guypld\Dropbox\University\A.I\HW ME\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.pdb
+C:\Users\guypld\Dropbox\University\A.I\HW ME\ReverseReversi\ReverseReversi\bin\Debug\ReverseReversi.exe
+C:\Users\guypld\Dropbox\University\A.I\HW ME\ReverseReversi\ReverseReversi\bin\Debug\ReverseReversi.pdb
+C:\Users\guypld\Dropbox\University\A.I\HW ME\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.csprojResolveAssemblyReference.cache
+C:\Users\guypld\Dropbox\University\A.I\HW ME\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.Form1.resources
+C:\Users\guypld\Dropbox\University\A.I\HW ME\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.Properties.Resources.resources
+C:\Users\guypld\Dropbox\University\A.I\HW ME\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.csproj.GenerateResource.Cache
+C:\Users\Guy\Dropbox\University\A.I\HW ME\ReverseReversi\ReverseReversi\bin\Debug\ReverseReversi.exe
+C:\Users\Guy\Dropbox\University\A.I\HW ME\ReverseReversi\ReverseReversi\bin\Debug\ReverseReversi.pdb
+C:\Users\Guy\Dropbox\University\A.I\HW ME\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.Form1.resources
+C:\Users\Guy\Dropbox\University\A.I\HW ME\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.Properties.Resources.resources
+C:\Users\Guy\Dropbox\University\A.I\HW ME\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.csproj.GenerateResource.Cache
+C:\Users\Guy\Dropbox\University\A.I\HW ME\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.exe
+C:\Users\Guy\Dropbox\University\A.I\HW ME\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.pdb
+G:\Dropbox\University\A.I\HW ME\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.exe
+G:\Dropbox\University\A.I\HW ME\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.pdb
+E:\Dropbox\University\B.sc\A.I\HW ME\ReverseReversi\ReverseReversi\bin\Debug\ReverseReversi.exe.config
+E:\Dropbox\University\B.sc\A.I\HW ME\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.exe
+E:\Dropbox\University\B.sc\A.I\HW ME\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.pdb
+E:\Dropbox\University\B.sc\A.I\HW ME\ReverseReversi\ReverseReversi\bin\Debug\ReverseReversi.exe
+E:\Dropbox\University\B.sc\A.I\HW ME\ReverseReversi\ReverseReversi\bin\Debug\ReverseReversi.pdb
+E:\Dropbox\University\B.sc\A.I\HW ME\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.csprojResolveAssemblyReference.cache
+E:\Dropbox\University\B.sc\A.I\HW ME\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.Form1.resources
+E:\Dropbox\University\B.sc\A.I\HW ME\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.Properties.Resources.resources
+E:\Dropbox\University\B.sc\A.I\HW ME\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.csproj.GenerateResource.Cache
+G:\Dropbox\University\B.Sc\A.I\HW ME\ReverseReversi\ReverseReversi\bin\Debug\ReverseReversi.exe.config
+G:\Dropbox\University\B.Sc\A.I\HW ME\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.exe
+G:\Dropbox\University\B.Sc\A.I\HW ME\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.pdb
+G:\Dropbox\University\B.Sc\A.I\HW ME\ReverseReversi\ReverseReversi\bin\Debug\ReverseReversi.exe
+G:\Dropbox\University\B.Sc\A.I\HW ME\ReverseReversi\ReverseReversi\bin\Debug\ReverseReversi.pdb
+G:\Dropbox\University\B.Sc\A.I\HW ME\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.csprojResolveAssemblyReference.cache
+G:\Dropbox\University\B.Sc\A.I\HW ME\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.Form1.resources
+G:\Dropbox\University\B.Sc\A.I\HW ME\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.Properties.Resources.resources
+G:\Dropbox\University\B.Sc\A.I\HW ME\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.csproj.GenerateResource.Cache
+E:\Google Drive\University\B.Sc\A.I\HW ME\ReverseReversi\ReverseReversi\bin\Debug\ReverseReversi.exe.config
+E:\Google Drive\University\B.Sc\A.I\HW ME\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.exe
+E:\Google Drive\University\B.Sc\A.I\HW ME\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.pdb
+E:\Google Drive\University\B.Sc\A.I\HW ME\ReverseReversi\ReverseReversi\bin\Debug\ReverseReversi.exe
+E:\Google Drive\University\B.Sc\A.I\HW ME\ReverseReversi\ReverseReversi\bin\Debug\ReverseReversi.pdb
+E:\Google Drive\University\B.Sc\A.I\HW ME\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.csprojResolveAssemblyReference.cache
+E:\Google Drive\University\B.Sc\A.I\HW ME\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.Form1.resources
+E:\Google Drive\University\B.Sc\A.I\HW ME\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.Properties.Resources.resources
+E:\Google Drive\University\B.Sc\A.I\HW ME\ReverseReversi\ReverseReversi\obj\Debug\ReverseReversi.csproj.GenerateResource.Cache
